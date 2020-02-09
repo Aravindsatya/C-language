@@ -1,0 +1,9 @@
+The aim of this program is for to perform basic operations of a calculator
+like addition,subtraction,multiplication,divison.
+
+
+.src directory contains all definition of functions.
+.include directory contains header files
+.bin directory contains execuatable file
+.obj directory contains all objective files
+.built directory contains makefile 
