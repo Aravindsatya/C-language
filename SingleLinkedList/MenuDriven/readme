@@ -1,0 +1,256 @@
+Purpose:
+	In this linkedlis program, we have done 9 operations
+	1.addatend
+	2.addatmiddle
+	3.addatbegin
+	4.deletatend
+	5.deleteatposition
+	6.deleteatbegin
+	7.search
+	8.updatet
+	9.display
+
+	linkedlis program has 5 directories
+	1.SRC
+	2.obj
+	3.include
+	4.bin
+	5.build
+
+1.in Src directory it contains the main function(.c files )[main,insert operations,delete opestions,display]
+2.in Obj directory it contains the object files(.o files)
+3.in Include directory it conatins all the header file(.h files)
+4.in Bin directory it contains the executable files
+5.in Build directory it contains the makefiles
+
+/***********output******************
+
+
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+1
+Enter your id:
+1
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+1
+Enter your id:
+2
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+1
+Enter your id:
+3
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+2
+Enter your id:
+3
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+2
+Enter your id:
+4
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+3
+Enter your rollno:
+6
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+7
+--------------------------------------Student  Details--------------------------------------------
+Student id             :3
+Student id             :2
+Student id             :1
+Student id             :6
+Student id             :3
+Student id             :4
+--------------------------------------------------------------------------------------------------
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+4
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+7
+--------------------------------------Student  Details--------------------------------------------
+Student id             :2
+Student id             :1
+Student id             :6
+Student id             :3
+Student id             :4
+--------------------------------------------------------------------------------------------------
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+6
+enter the position to be update :
+4
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+7
+--------------------------------------Student  Details--------------------------------------------
+Student id             :2
+Student id             :1
+Student id             :6
+Student id             :4
+--------------------------------------------------------------------------------------------------
+MENU:
+---------------
+1.Add Node at beginning
+2.Add Node at end
+3.Add  Node at middle
+4.Delete node at beginning
+5.Delete node at end
+6.Delete a node at respective position
+7.display all elements of list
+8.Search a node
+9.Update a node
+10.Quit
+---------------
+
+Enter your choice:
+10
+***********************************/
